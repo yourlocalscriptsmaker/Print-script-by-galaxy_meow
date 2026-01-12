@@ -1,1 +1,1 @@
-# Print-script-by-galaxy_meow
+# Print-script-by-galaxy
